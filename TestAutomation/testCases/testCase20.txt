@@ -1,0 +1,6 @@
+1.20
+2.The integer ID of a mastery
+3.Getting a mastery's information	
+4.static_get_mastery
+5.6122 
+6.Feast

@@ -1,0 +1,6 @@
+1.16
+2.The integer ID of a summoner spell
+3.Getting a summoner spell's information	
+4.static_get_summoner_spell
+5.6 
+6.Ghost

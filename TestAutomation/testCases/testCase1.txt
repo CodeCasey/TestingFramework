@@ -1,0 +1,6 @@
+1.1
+2.Two integers to be added
+3.Adding two integers	
+4.add(x, y)
+5.2 2 
+6.4

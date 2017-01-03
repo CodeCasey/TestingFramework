@@ -1,0 +1,6 @@
+1.26
+2.The integer ID of a rune
+3.Getting a rune's information	
+4.static_get_rune
+5.5230
+6.Quintessence of Scaling Health Regeneration

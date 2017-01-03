@@ -1,0 +1,6 @@
+1.10
+2.The integer ID of an item
+3.Getting a item's information		
+4.static_get_item
+5.3133 
+6.Caulfield's Warhammer
